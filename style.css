@@ -5,26 +5,10 @@ body{
     padding-left: 2rem;
     padding-right: 2rem;
     padding-top: 2rem;
-    padding-bottom: 2rem;
-   
+    padding-bottom: 2rem; 
 }
 
-/* header { grid-area: header; }
-div .container2 { grid-area: C2; }
-div .container3 { grid-area: C3; }
-div .container4 { grid-area: C4; }
-
-.container {
-   display: grid;
-   grid-template-areas:
-   "header"
-   "C2"
-   "C3"
-   "C4";
-   border: 2px solid red;
-} */
-
-  h1 {
+h1 {
     text-align: center;
     font-family: sans-serif; 
     font-size: 50px;
@@ -32,41 +16,18 @@ div .container4 { grid-area: C4; }
     padding-bottom: 1rem;
 }
 
- .container2 {
-    display:flexbox;
+ .containerPlay {
     text-align: center;
     padding-bottom: 1rem;
-    border: 3px solid blue;
 }
 
-#b1{ 
-    font-size: 20px;
-}
-
-.container3 {
-    display:flexbox; 
+.containerQandA {
     text-align: center;
     padding-bottom: 1rem;
-    border: 3px solid green;
+    padding-top: 1rem;
 }
 
 .pic {
-    width: 300px;
-    height: 300px; 
+    width: 400px;
+    height: 400px; 
 }
-
-#b2, #b3, #b4, #b5 {
-    font-size: 15px;
-}
-
-.container4 {
-    display: flexbox;
-    text-align: center;
-    padding-bottom: 1rem;
-    border: 3px solid blueviolet;
-}
-
-#b6{
-    font-size: 20px;
-}
-
