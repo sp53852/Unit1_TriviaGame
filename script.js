@@ -68,7 +68,7 @@ function answer(questionNumber,buttonId) {
 
         // Display score and next steps
         let para = document.getElementById('para');
-        para.innerText = "You have already completed the quiz before, but just try again to retest your knowledge level.";
+        para.innerText = "You have already completed the quiz, but just try again to retest your knowledge level.";
         let h2Result = document.getElementById('result');
         h2Result.innerText = "Result : " + (answerCount/totalQuestions) * 100 + "%";
         let buttonPlay = document.getElementById('buttonPlay');
