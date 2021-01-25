@@ -9,11 +9,11 @@ User can replay the game as many times as user wants.
 - CSS
 - JavaScript Programming
 
-# Requirements
+## Requirements
 ## Technical Requirements
 ### Git Repo
 GitHub Repository: https://github.com/sp53852/Unit1_TriviaGame
-Included separate HTML / CSS / JavaScript files.
+- Included separate HTML / CSS / JavaScript files.
 - `index.html`: Created html structure for TRIVIA game. 
 - `style.css`: Created style for html structure. 
 - `script.js`: Used JavaScript for defining variables, DOM manipulation, defining and invoking functions. Used 'for' loop and 'if' statements.
@@ -24,7 +24,7 @@ Deployed online, using Github Project Pages
 
 ### Instructions
 Trivia Game topic is a combination of wonders of the world and general knowledge.
-This is a 10 questions quiz game. 
+This is a 10 question quiz game. 
 
 - Once user launches the page, game should appear with main page (gameLabel, gameInstructions and play button).
 - Once play button activates, game should start and display first question with multiple answers.
